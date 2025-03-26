@@ -9,21 +9,15 @@ Perform data cleaning and preprocessing to ensure high-quality data
 
 Conduct exploratory data analysis (EDA) to uncover key churn drivers
 
-Build predictive models to classify customers as likely to churn or not
-
 Develop interactive dashboards in Power BI for real-time insights
 
 Provide business recommendations to reduce customer churn
 
 ## Technologies Used
 
-Python: Data analysis (Pandas, NumPy, Matplotlib, Seaborn)
-
 SQL: Querying and analyzing structured telecom customer data
 
 Power BI: Creating interactive dashboards for business insights
-
-Jupyter Notebook: Step-by-step data analysis and visualization
 
 ### Dataset
 
