@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Analysis
  ## Project Overview
 
-Customer churn is a critical challenge for telecom companies, as retaining existing customers is more cost-effective than acquiring new ones. This project aims to analyze customer churn patterns using Python, SQL, and Power BI, identifying key factors influencing customer retention. The insights from this analysis can help businesses develop data-driven strategies to reduce churn and improve customer satisfaction.
+Customer churn is a critical challenge for telecom companies, as retaining existing customers is more cost-effective than acquiring new ones. This project aims to analyze customer churn patterns using  SQL, and Power BI identifying key factors influencing customer retention. The insights from this analysis can help businesses develop data-driven strategies to reduce churn and improve customer satisfaction.
 
  Objectives
 
